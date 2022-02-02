@@ -4,6 +4,8 @@ I'm maxzycon from indonesia 🇮🇩, I'm fullstack developer with 3 years exper
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxzycon&theme=prussian)](https://github.com/Maxzycon/github-readme-stats)
 
+Check my recently project maxzycon.com
+
 ## Skills and Experience
 * 📚 Nuxtjs,Nextjs,Reactjs,Vuejs
 * 💻 Laravel,Codeigniter,PHP native, expressjs, golang
