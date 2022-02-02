@@ -1,15 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm maxzycon from indonesia 🇮🇩, I'm fullstack developer, I really enjoy learning about new framework or just some small library I just recently know about that, my favorite framework React.js I also know about nextjs,nuxtjs,vuejs and I usually used mysql for database DBMS but I recently used mongodb, as well I fullstack developer I commonly use laravel for backend service, but recently i used express.js
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxzycon&theme=prussian)](https://github.com/Maxzycon/github-readme-stats)
 
-## Skills and Experience
-# Frontend
+# Skills and Experience
+Frontend
 * 📚 Nuxtjs,Nextjs,Reactjs,Vuejs
-# Backend
+Backend
 * 💻 Laravel,Codeigniter,PHP native, expressjs, golang
-# DBMS
+DBMS
 * ⚡️ MYSQL,MONGODB
 
 <!--
