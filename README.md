@@ -7,9 +7,10 @@ I'm maxzycon from indonesia 🇮🇩, I'm fullstack developer with 3 years exper
 Check my recently project here https://maxzycon.com 👈🏻
 
 ## Skills and Experience
-* 📚 Nuxtjs,Nextjs,Reactjs,Vuejs
+[![My Skills](https://skillicons.dev/icons?i=laravel,react,nextjs,vue,nuxtjs,tailwind,express,go,mongodb,mysql,css,html)](https://skillicons.dev)
+<!-- * 📚 Nuxtjs,Nextjs,Reactjs,Vuejs
 * 💻 Laravel,Codeigniter,PHP native, expressjs, golang
-* ⚡️ MYSQL,MONGODB
+* ⚡️ MYSQL,MONGODB -->
 
 <!--
 **Maxzycon/Maxzycon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
