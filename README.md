@@ -2,9 +2,7 @@
 
 I'm maxzycon from indonesia 🇮🇩, I'm fullstack developer with 3 years experience, I really enjoy learning about new framework or just some small library I just recently know about that, my favorite framework React.js I also know about nextjs,nuxtjs,vuejs and I usually used mysql for database DBMS but I recently used mongodb, as well I fullstack developer I commonly use laravel for backend service, but recently i used express.js
 
-<a href="https://app.daily.dev/maxzycon"><img src="https://api.daily.dev/devcards/e885c18e97d74376b0820dabd4ab4f31.png?r=hoy" width="400" alt="Maxzycon⚡️'s Dev Card"/></a>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxzycon&theme=prussian)](https://github.com/Maxzycon/github-readme-stats)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxzycon&theme=prussian)](https://github.com/Maxzycon/github-readme-stats)]<a href="https://app.daily.dev/maxzycon"><img src="https://api.daily.dev/devcards/e885c18e97d74376b0820dabd4ab4f31.png?r=hoy" width="200" alt="Maxzycon⚡️'s Dev Card"/></a>
 
 Check my recently project here https://maxzycon.com 👈🏻
 
